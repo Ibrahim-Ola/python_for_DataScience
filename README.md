@@ -1,2 +1,3 @@
-# python_for_DataScience
+## Python for Data Science
+
 This is an introduction to Python Series.
